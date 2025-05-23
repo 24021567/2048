@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1740732318 source:d:\gamecode\game\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"graphics.h"
+
+1740731206 d:\gamecode\game\defs.h
+
+1740735210 d:\gamecode\game\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1740735113 source:d:\gamecode\game\mouse_event.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"graphics.h"
+
